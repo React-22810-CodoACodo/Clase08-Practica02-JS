@@ -1,7 +1,7 @@
 /* 4.-Kilómetros a millas
 * Crear un programa que pida 
     - ingresar una cantidad de kilómetros y 
-    - muestre un mensaje con el resultado de la conversión en millas.*/
+    - muestre un mensaje con el resultado de la conversión en millas. */
 
 let kilometros = prompt('Ingrese la cantidad de kilometros: ');
 

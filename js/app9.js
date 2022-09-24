@@ -5,8 +5,7 @@
         * la duración de cada uno de ellos. 
     - Al final debe 
         * mostrar un mensaje que liste todas las escalas con su duración y 
-        * la duración total del vuelo.
- */
+        * la duración total del vuelo. */
 
 let destino_uno = prompt('Ingrese el 1er destino: ');
 let duracion_uno = parseInt(prompt('Ingrese la duración al 1er destino en horas: '));

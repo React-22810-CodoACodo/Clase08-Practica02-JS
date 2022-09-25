@@ -7,6 +7,6 @@
 let base = prompt('Ingrese el valor de la base de un triangulo en cm: ');
 let altura = prompt('Ingrese el valor de la altura de un triagulo en cm: ');
 
-let area = (base * altura)/2;
+let area = (base * altura) / 2;
 
 let mensaje = alert('El área del triangulo es: ' + area + ' centimetros cuadrados');
